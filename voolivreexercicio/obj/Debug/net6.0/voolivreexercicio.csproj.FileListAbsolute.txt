@@ -1,0 +1,15 @@
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\bin\Debug\net6.0\voolivreexercicio.exe
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\bin\Debug\net6.0\voolivreexercicio.deps.json
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\bin\Debug\net6.0\voolivreexercicio.runtimeconfig.json
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\bin\Debug\net6.0\voolivreexercicio.dll
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\bin\Debug\net6.0\voolivreexercicio.pdb
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\voolivreexercicio.csproj.AssemblyReference.cache
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\voolivreexercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\voolivreexercicio.AssemblyInfoInputs.cache
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\voolivreexercicio.AssemblyInfo.cs
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\voolivreexercicio.csproj.CoreCompileInputs.cache
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\voolivreexercicio.dll
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\refint\voolivreexercicio.dll
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\voolivreexercicio.pdb
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\voolivreexercicio.genruntimeconfig.cache
+C:\Users\daluz\source\repos\voolivreexercicio\voolivreexercicio\obj\Debug\net6.0\ref\voolivreexercicio.dll
